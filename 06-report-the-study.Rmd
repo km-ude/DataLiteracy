@@ -8,7 +8,7 @@ path <- "C:/Users/KFischer/Documents/GitHub/DataLiteracy/_bookdown_files/DataLit
 
 <!--C:/Users/KFischer/sciebo/Date Literacy Project/06 Manuscript/bookdown/DataLiteracy/_book/DataLiteracy_files/figure-html-->
 
-
+Test
 At this stage you need to report all your performed work in detail in a scientific research paper.
 
 ```{r writepaper, out.width='100%', fig.align='center', fig.cap='How to report your paper', echo=FALSE}
