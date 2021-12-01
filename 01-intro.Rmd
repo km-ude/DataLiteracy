@@ -16,7 +16,15 @@ path <- "C:/Users/KFischer/Documents/GitHub/DataLiteracy/_bookdown_files/DataLit
 
 *“Only results that can be replicated are truly scientific results. If there is no chance to replicate research results, they can be regarded as no more than personal views in the opinion or review section of a daily newspaper.”* [@huschka_why_2013]
 
-Test
+The aim is, to prove that a theory or an observed relation is in deed a causal conncetion and not an artifact of random events. To deliver this prove, we have to find real world situations that meet the required prepositions of the theory or resemple the circumstances of past observations. If a connection is causal, we shall find the same pattern.
+Especially in non-laboratory settings, we can never outrule, whether a seemingly causal finding stems from random events or unobserved factors. However, the more evidence for the causal relation, the more likely it will be that a new causal relationship was found. This evidence may stem from two sour
+
+
+
+The more frequently research finds similar results on the same research topic, the more likely it becomes that causality was established. 
+
+
+
 
 ## What is reproducible research?
 
