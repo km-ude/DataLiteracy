@@ -16,19 +16,13 @@ path <- "C:/Users/KFischer/Documents/GitHub/DataLiteracy/_bookdown_files/DataLit
 
 *“Only results that can be replicated are truly scientific results. If there is no chance to replicate research results, they can be regarded as no more than personal views in the opinion or review section of a daily newspaper.”* [@huschka_why_2013]
 
-The aim is, to prove that a theory or an observed relation is in deed a causal conncetion and not an artifact of random events. To deliver this prove, we have to find real world situations that meet the required prepositions of the theory or resemple the circumstances of past observations. If a connection is causal, we shall find the same pattern.
-Especially in non-laboratory settings, we can never outrule, whether a seemingly causal finding stems from random events or unobserved factors. However, the more evidence for the causal relation, the more likely it will be that a new causal relationship was found. This evidence may stem from two sour
-
-
-
-The more frequently research finds similar results on the same research topic, the more likely it becomes that causality was established. 
-
-
-
+As researchers compete for the latest and most impactful finding, they might face a conflict of interest. The more strinking new findings are, the easier it might be to publish them. While finding effects where there are none biases the collective hive mind of academia, it can be beneficial for individual authors to submit and journals to publish them (DOI: 10.1257/aer.20190687). 
+Strong mechanisms of quality control are needed to ensure high standards of research. 
+ 
 
 ## What is reproducible research?
 
-Scientific journal editors and research funders are increasingly promoting transparency in research. To encourage the principles of reproducible research, the related institutions are requesting authors to make their research reproducible. To overcome criticisms regarding the validity and power of empirical tests, this means that data and program code need to be shared upon manuscript acceptance, or earlier stages of the submission process. The purpose is that third-parties have the possibility to reproduce the content and analysis of a study, and conclusions of a study on their own.
+As one solution, scientific journal editors and research funders are increasingly promoting transparency in research. To encourage the principles of reproducible research, the related institutions are requesting authors to make their research reproducible. To overcome criticisms regarding the validity and power of empirical tests, this means that data and program code need to be shared upon manuscript acceptance, or earlier stages of the submission process. The purpose is that third-parties have the possibility to reproduce the content and analysis of a study, and conclusions of a study on their own.
 
 Efforts to increase reproducability have been expressed by multiple institutions within the social sciences, for example:
 
