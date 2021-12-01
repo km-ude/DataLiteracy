@@ -16,6 +16,8 @@ path <- "C:/Users/KFischer/Documents/GitHub/DataLiteracy/_bookdown_files/DataLit
 
 *“Only results that can be replicated are truly scientific results. If there is no chance to replicate research results, they can be regarded as no more than personal views in the opinion or review section of a daily newspaper.”* [@huschka_why_2013]
 
+Test
+
 ## What is reproducible research?
 
 Scientific journal editors and research funders are increasingly promoting transparency in research. To encourage the principles of reproducible research, the related institutions are requesting authors to make their research reproducible. To overcome criticisms regarding the validity and power of empirical tests, this means that data and program code need to be shared upon manuscript acceptance, or earlier stages of the submission process. The purpose is that third-parties have the possibility to reproduce the content and analysis of a study, and conclusions of a study on their own.
